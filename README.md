@@ -36,7 +36,7 @@ Soy un entusiasta de la tecnología con conocimientos en desarrollo web, bases d
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Bola%C3%B1os-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Bola%C3%B1os-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omarbg)
 [![GitHub](https://img.shields.io/badge/GitHub-Shinra3245-black?style=flat-square&logo=github)](https://github.com/Shinra3245)
 
 ---
