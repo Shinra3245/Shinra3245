@@ -4,7 +4,7 @@ Desarrollador Web Jr. | Estudiante de Ingeniería en Sistemas Computacionales
 
 Soy un entusiasta de la tecnología con conocimientos en desarrollo web, bases de datos y automatización. Me apasiona aprender constantemente y aplicar mis habilidades en proyectos funcionales, organizados y escalables.
 
-![GIF animado](https://tenor.com/es-419/view/diamond-gif-13878033421043980995)
+![GIF animado](https://media.tenor.com/wJit3hJTWsMAAAAi/diamond.gif)
 
 ---
 
