@@ -21,6 +21,7 @@ Soy un entusiasta de la tecnología con conocimientos en desarrollo web, bases d
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+![GIF animado](https://media1.tenor.com/m/hs6IuO3pDh8AAAAC/pixel-art.gif)
 ---
 
 ## 📂 Proyectos destacados
