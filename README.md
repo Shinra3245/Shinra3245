@@ -1,4 +1,4 @@
-# 👨‍💻 Omar Bolaños
+# ![GIF animado](https://media.tenor.com/BGz04lUC4KcAAAAi/the-binding-of-isaac.gif) Omar Bolaños
 
 Desarrollador Web Jr. | Estudiante de Ingeniería en Sistemas Computacionales
 
