@@ -26,7 +26,7 @@ Soy un entusiasta de la tecnología con conocimientos en desarrollo web, bases d
 
 ## 📂 Proyectos destacados
 
-- 🔗 [Portafolio personal](https://github.com/Shinra3245/portafolio)
+- 🔗 [Portafolio personal](https://omarbolanos.netlify.app/)
 
 ---
 
