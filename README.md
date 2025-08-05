@@ -27,6 +27,7 @@ Soy un entusiasta de la tecnología con conocimientos en desarrollo web, bases d
 ## 📂 Proyectos destacados
 
 - 🔗 [Portafolio personal](https://omarbolanos.netlify.app/)
+- 🔗 [nube-matrixl](https://shinra3245.github.io/nube-matrix)
 
 ---
 
