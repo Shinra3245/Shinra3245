@@ -33,4 +33,4 @@ Desarrollo soluciones de software y prototipos que conectan backend, datos, apli
 
 ## Formación complementaria seleccionada
 
-Oracle Cloud Infrastructure Certified Foundations Associate · ONE Tech Advanced (Alura Latam) · Foundations: Data, Data, Everywhere (Google/Coursera) · Python para Data Science (Alura Latam) · Clasificación de datos con Machine Learning (Alura Latam) · ChatGPT Prompt Engineering for Developers (DeepLearning.AI).}
+Oracle Cloud Infrastructure Certified Foundations Associate · ONE Tech Advanced (Alura Latam) · Foundations: Data, Data, Everywhere (Google/Coursera) · Python para Data Science (Alura Latam) · Clasificación de datos con Machine Learning (Alura Latam) · ChatGPT Prompt Engineering for Developers (DeepLearning.AI).
