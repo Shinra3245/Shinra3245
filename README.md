@@ -50,7 +50,7 @@ Estudiante de **Ingeniería en Sistemas Computacionales** en el Tecnológico Nac
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Shinra3245/ILPEA-TRANSPORTS">ILPEA Transports · LinceHack 2026</a></h3>
-      <p>Proyecto colaborativo de gestión logística. Contribuí al backend, seguridad y coordinación. El equipo obtuvo el primer lugar en la categoría Innovación y Tecnología.</p>
+      <p>Proyecto colaborativo de gestión logística. Como líder de equipo, organicé y orquesté tareas, integré el trabajo y coordiné la colaboración. El equipo obtuvo el primer lugar en la categoría Innovación y Tecnología.</p>
       <p><strong>Reconocimiento otorgado al equipo.</strong></p>
       <p><code>Backend · Seguridad · Trabajo en equipo</code></p>
     </td>
@@ -131,7 +131,7 @@ Oracle Cloud Infrastructure Certified Foundations Associate · ONE Tech Advanced
 
   **Education:** 9th semester; expected graduation June 2027. **English:** CEFR B1, TOEFL ITP 477 (August 2026).
 
-  Selected work includes ATLAS, a preliminary territorial analysis platform; VivaOrden, a restaurant POS developed individually and integrated into an operational workflow; ILPEA Transports, whose team won first place at LinceHack 2026; and *Journey to Mars*, an independently published educational game made during NASA Space Apps Challenge 2026. The NASA project was not submitted for judging and received no official score or award.
+  Selected work includes ATLAS, a preliminary territorial analysis platform; VivaOrden, a restaurant POS developed individually and integrated into an operational workflow; ILPEA Transports, where I led team coordination, task organization and work integration, and whose team won first place at LinceHack 2026; and *Journey to Mars*, an independently published educational game made during NASA Space Apps Challenge 2026. The NASA project was not submitted for judging and received no official score or award.
 
   [Portfolio](https://www.shinradev.online/) · [LinkedIn](https://www.linkedin.com/in/omar-gadiel-bg/) · [Email](mailto:omarbolanos198@gmail.com)
 </details>
