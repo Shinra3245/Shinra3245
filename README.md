@@ -36,9 +36,9 @@ Estudiante de **Ingeniería en Sistemas Computacionales** en el Tecnológico Nac
   <tr>
     <td width="50%" valign="top">
       <h3>VivaOrden · POS para restaurantes</h3>
-      <p>Fundador y CEO; desarrollo colaborativo. Producto SaaS en desarrollo y en uso comercial con clientes reales; Pizzas a la Leña fue la primera implementación. El POS integra pedidos, comandas por estación, caja y seguimiento de entregas.</p>
-      <p><strong>Estado:</strong> operación comercial activa, desarrollo en curso y sin lanzamiento al público general. Repositorio privado; sin pagos en línea ni app independiente para repartidores.</p>
-      <p><code>Producto SaaS · Operación comercial · Desarrollo colaborativo</code></p>
+      <p>Fundador y desarrollador único. Sistema web integrado al flujo operativo de un restaurante: pedidos, comandas por estación, caja, clientes y seguimiento de entregas desde el POS.</p>
+      <p><strong>Estado:</strong> integrado a la operación. El repositorio es privado; no se ofrecen pagos en línea ni una app independiente para repartidores.</p>
+      <p><code>Producto · Operaciones · Desarrollo individual</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Shinra3245/ATLAS">ATLAS · Análisis territorial</a></h3>
@@ -52,7 +52,7 @@ Estudiante de **Ingeniería en Sistemas Computacionales** en el Tecnológico Nac
       <h3><a href="https://github.com/Shinra3245/ILPEA-TRANSPORTS">ILPEA Transports · LinceHack 2026</a></h3>
       <p>Proyecto colaborativo de gestión logística. Como líder de equipo, organicé y orquesté tareas, integré el trabajo y coordiné la colaboración. El equipo obtuvo el primer lugar en la categoría Innovación y Tecnología.</p>
       <p><strong>Reconocimiento otorgado al equipo.</strong></p>
-      <p><code>Backend · Seguridad · Trabajo en equipo</code></p>
+      <p><code>Liderazgo · Organización · Integración de trabajo</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>Journey to Mars · NASA Space Apps Challenge</h3>
@@ -131,7 +131,7 @@ Oracle Cloud Infrastructure Certified Foundations Associate · ONE Tech Advanced
 
   **Education:** 9th semester; expected graduation June 2027. **English:** CEFR B1, TOEFL ITP 477 (August 2026).
 
-  Selected work includes ATLAS, a preliminary territorial analysis platform; VivaOrden, a restaurant POS product I founded and co-develop; it is used commercially by real clients while development continues, and Pizzas a la Leña was its first implementation; ILPEA Transports, where I led team coordination, task organization and work integration, and whose team won first place at LinceHack 2026; and *Journey to Mars*, an independently published educational game made during NASA Space Apps Challenge 2026. The NASA project was not submitted for judging and received no official score or award.
+  Selected work includes ATLAS, a preliminary territorial analysis platform; VivaOrden, a restaurant POS developed individually and integrated into an operational workflow; ILPEA Transports, where I led team coordination, task organization and work integration, and whose team won first place at LinceHack 2026; and *Journey to Mars*, an independently published educational game made during NASA Space Apps Challenge 2026. The NASA project was not submitted for judging and received no official score or award.
 
   [Portfolio](https://www.shinradev.online/) · [LinkedIn](https://www.linkedin.com/in/omar-gadiel-bg/) · [Email](mailto:omarbolanos198@gmail.com)
 </details>
